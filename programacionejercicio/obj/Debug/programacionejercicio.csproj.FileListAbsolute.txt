@@ -1,0 +1,10 @@
+C:\Users\DERCHIE\source\repos\programacionejercicio\bin\Debug\programacionejercicio.exe.config
+C:\Users\DERCHIE\source\repos\programacionejercicio\bin\Debug\programacionejercicio.exe
+C:\Users\DERCHIE\source\repos\programacionejercicio\bin\Debug\programacionejercicio.pdb
+C:\Users\DERCHIE\source\repos\programacionejercicio\obj\Debug\programacionejercicio.csproj.AssemblyReference.cache
+C:\Users\DERCHIE\source\repos\programacionejercicio\obj\Debug\programacionejercicio.Form1.resources
+C:\Users\DERCHIE\source\repos\programacionejercicio\obj\Debug\programacionejercicio.Properties.Resources.resources
+C:\Users\DERCHIE\source\repos\programacionejercicio\obj\Debug\programacionejercicio.csproj.GenerateResource.cache
+C:\Users\DERCHIE\source\repos\programacionejercicio\obj\Debug\programacionejercicio.csproj.CoreCompileInputs.cache
+C:\Users\DERCHIE\source\repos\programacionejercicio\obj\Debug\programacionejercicio.exe
+C:\Users\DERCHIE\source\repos\programacionejercicio\obj\Debug\programacionejercicio.pdb
